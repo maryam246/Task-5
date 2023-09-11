@@ -200,7 +200,7 @@ print("choclate cake" in cakes) # True, because "choclate cake" is in the list
 
 # using (not in)
 cakes =["choclate cake","Vanilla Cake","Red Velvet Cake"]
-print("choclate cake" not in cakes) # True, because "choclate cake" is not in the list
+print("choclate cake" not in cakes) # False, because "choclate cake" is not in the list
 
 #Identity operator(is, is not)
 #Using (is)
